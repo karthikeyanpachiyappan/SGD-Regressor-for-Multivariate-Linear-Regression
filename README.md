@@ -20,8 +20,8 @@ step6: End the program
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: MONISH S
-RegisterNumber:  212223040115
+Developed by: KARTHIKEYAN P
+RegisterNumber:  212223230102
 */
 import numpy as np
 from sklearn.datasets import fetch_california_housing
